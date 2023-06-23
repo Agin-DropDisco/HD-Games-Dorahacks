@@ -21,6 +21,13 @@ SAGE "Save the Lost Girl" is a web adventure game with a mission to save a girl 
 
 ## Game Demo : https://app-sage.pages.dev
 ## Gameplay Video Demo: https://youtu.be/wy2l6A4_lbk
+## Tweet : https://twitter.com/agin_webdev/status/1672306249067827200
+
+## Smart Contracs on Mantle Testnet
+
+### Sage Token: [0xAD6ae9D1706D52b36dd6E7f1A7C8296958b5f979](https://explorer.testnet.mantle.xyz/address/0xAD6ae9D1706D52b36dd6E7f1A7C8296958b5f979)
+### SageNFT: [0xb9C5793742d685615fF363FFC7297f9A2376f512](https://explorer.testnet.mantle.xyz/address/0xb9C5793742d685615fF363FFC7297f9A2376f512)
+
 
 ## Features.
 1. Bridge
