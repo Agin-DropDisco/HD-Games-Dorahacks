@@ -6,5 +6,5 @@ yarn
 
 ### Deploy to Mantle Chain Testnet
 ```ssh
-yarn deploy:mantleTestnet
+yarn deploy:testnet
 ```
